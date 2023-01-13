@@ -23,7 +23,7 @@ This account is affliated with Cloyd Van S. Secuya. The objective and purpose of
 # GitHub Stats 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=ciezo&show_icons=true) -->
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=ciezo&show_icons=true) <!-- Update on June 20, 2022 -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ciezo)](https://github.com/ciezo/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciezo)](https://github.com/ciezo/github-readme-stats)
 <hr>
 
 ### Go check out my other account! 
