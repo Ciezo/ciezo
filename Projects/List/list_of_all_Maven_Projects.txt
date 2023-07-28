@@ -1,0 +1,8 @@
+./springboot/examples/CountriesApi/demo/mvnw
+./springboot/examples/EmployeeApi/mvnw
+./springboot/examples/LocationApi/mvnw
+./springboot/examples/UserApi/mvnw
+./springboot/examples/users/mvnw
+./springboot/projects/multi-user-login-system/Back end (Spring boot)/mvnw
+./springboot/projects/springboot-jwt-mysql/jwt-youtube/mvnw
+./springboot/projects/UserApi/mvnw
