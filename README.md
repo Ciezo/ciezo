@@ -26,6 +26,10 @@ I like software engineering because it is art! Composing technical solutions fro
 <!-- [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciezo)](https://github.com/ciezo/github-readme-stats)
 <hr> -->
 
+___
+🧑‍💻 Software Engineer
+
+🌠 Aspiring Fullstack Software Engineer
 
 <!-- ### Go check out my other account! --> 
 <!-- <b><a href="https://github.com/cloydsecuya">Cloyd Van Secuya</a></b> -->
