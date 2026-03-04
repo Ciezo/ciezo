@@ -27,11 +27,11 @@ I like software engineering because it is art 🎨🖥💻📶! **Composing tech
 <hr> -->
 
 ___
-▶ Graduate Embedded Software Engineer
-⏭ Java Software Engineer 
-⏭ Full Stack Software Engineer
-⏭ Software Lead
-🌠 Aspiring Software Systems Architect
+▶ Graduate Embedded Software Engineer <br>
+⏭ Java Software Engineer <br>
+⏭ Full Stack Software Engineer <br>
+⏭ Software Lead <br>
+🌠 Aspiring Software Systems Architect <br>
 
 <!-- ### Go check out my other account! --> 
 <!-- <b><a href="https://github.com/cloydsecuya">Cloyd Van Secuya</a></b> -->
