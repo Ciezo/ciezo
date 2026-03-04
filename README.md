@@ -27,5 +27,5 @@ I like software engineering because it is art! Composing technical solutions fro
 <hr> -->
 
 
-### Go check out my other account! 
-<b><a href="https://github.com/cloydsecuya">Cloyd Van Secuya</a></b>
+<!-- ### Go check out my other account! --> 
+<!-- <b><a href="https://github.com/cloydsecuya">Cloyd Van Secuya</a></b> -->
