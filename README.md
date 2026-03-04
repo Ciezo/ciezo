@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-I like software engineering because it is art! Composing technical solutions from ideas to see it into fruition brings satisfaction to my nerves.
+I like software engineering because it is art 🎨🖥💻📶! **Composing technical solutions** from ideas to see it into fruition brings satisfaction to my nerves.
 
 <!-- # GitHub Stats --> 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=ciezo&show_icons=true) -->
@@ -27,9 +27,11 @@ I like software engineering because it is art! Composing technical solutions fro
 <hr> -->
 
 ___
-🧑‍💻 Software Engineer
-
-🌠 Aspiring Fullstack Software Engineer
+▶ Graduate Embedded Software Engineer
+⏭ Java Software Engineer 
+⏭ Full Stack Software Engineer
+⏭ Software Lead
+🌠 Aspiring Software Systems Architect
 
 <!-- ### Go check out my other account! --> 
 <!-- <b><a href="https://github.com/cloydsecuya">Cloyd Van Secuya</a></b> -->
