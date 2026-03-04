@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-This account is affliated with Cloyd Van S. Secuya. The objective and purpose of having another account is for my projects allocation which I like to "divide" the ones that are creative, which is placed here, while my other account is for holding professional projects. 
+I like software engineering because it is art! Composing technical solutions from ideas to see it into fruition brings satisfaction to my nerves.
 
-# GitHub Stats 
+<!-- # GitHub Stats --> 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=ciezo&show_icons=true) -->
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=ciezo&show_icons=true) <!-- Update on June 20, 2022 -->
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciezo)](https://github.com/ciezo/github-readme-stats)
-<hr>
+<!-- [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ciezo)](https://github.com/ciezo/github-readme-stats)
+<hr> -->
+
 
 ### Go check out my other account! 
 <b><a href="https://github.com/cloydsecuya">Cloyd Van Secuya</a></b>
