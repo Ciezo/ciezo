@@ -27,7 +27,8 @@ I like software engineering because it is art 🎨🖥💻📶! **Composing tech
 <hr> -->
 
 ___
-▶ Graduate Embedded Software Engineer <br>
+✔ Graduate Embedded Software Engineer <br>
+▶ Embedded Software Engineer <br>
 ⏭ Java Software Engineer <br>
 ⏭ Full Stack Software Engineer <br>
 ⏭ Software Lead <br>
